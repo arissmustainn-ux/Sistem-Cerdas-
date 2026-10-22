@@ -1,0 +1,401 @@
+id_paket,kurir,layanan,jarak_km,waktu_tempuh_jam,batas_sla_jam,status_pengiriman
+PKT0001,JNE,Reguler,1124.0,100.9,96,Terlambat
+PKT0002,Pos Indonesia,Reguler,1315.0,101.9,96,Terlambat
+PKT0003,JNE,Reguler,209.0,41.0,96,Tepat Waktu
+PKT0004,SiCepat,Reguler,483.6,83.6,96,Tepat Waktu
+PKT0005,Pos Indonesia,Express,555.7,59.2,48,Terlambat
+PKT0006,Pos Indonesia,Express,808.1,38.1,48,Tepat Waktu
+PKT0007,JNE,Reguler,448.8,79.7,96,Tepat Waktu
+PKT0008,JNE,Express,95.6,23.2,48,Tepat Waktu
+PKT0009,JNE,Reguler,556.5,,96,Tepat Waktu
+PKT0010,JNE,Same Day,385.6,7.5,12,Tepat Waktu
+PKT0011,JNE,Reguler,582.0,87.6,96,Tepat Waktu
+PKT0012,SiCepat,Express,299.5,27.2,48,Tepat Waktu
+PKT0013,Pos Indonesia,Reguler,396.5,107.3,96,Terlambat
+PKT0014,SiCepat,Express,942.3,43.1,48,Tepat Waktu
+PKT0015,SiCepat,Reguler,585.3,76.0,96,Tepat Waktu
+PKT0016,JNE,Express,521.3,26.7,48,Tepat Waktu
+PKT0017,AnterAja,Reguler,803.2,147.0,96,Terlambat
+PKT0018,SiCepat,Same Day,1158.9,11.1,12,Tepat Waktu
+PKT0019,Pos Indonesia,Express,571.4,50.7,48,Terlambat
+PKT0020,Pos Indonesia,Express,883.3,34.0,48,Tepat Waktu
+PKT0021,J&T Express,Express,1449.5,45.2,48,Tepat Waktu
+PKT0022,JNE,Same Day,785.4,11.7,12,Tepat Waktu
+PKT0023,JNE,Reguler,1365.1,109.8,96,Terlambat
+PKT0024,J&T Express,Reguler,1191.5,61.6,96,Tepat Waktu
+PKT0025,Pos Indonesia,Reguler,92.8,76.5,96,Tepat Waktu
+PKT0026,J&T Express,Reguler,646.5,65.2,96,Tepat Waktu
+PKT0027,AnterAja,Express,1049.0,69.3,48,Terlambat
+PKT0028,SiCepat,Same Day,1480.1,11.1,12,Gagal
+PKT0029,JNE,Same Day,690.3,8.5,12,Tepat Waktu
+PKT0030,J&T Express,Express,143.7,34.8,48,Tepat Waktu
+PKT0031,SiCepat,Express,845.2,30.3,48,Tepat Waktu
+PKT0032,SiCepat,Same Day,194.2,4.2,12,Tepat Waktu
+PKT0033,J&T Express,Same Day,1128.5,10.2,12,Tepat Waktu
+PKT0034,JNE,Reguler,764.0,93.7,96,Tepat Waktu
+PKT0035,AnterAja,Express,1086.5,35.5,48,Tepat Waktu
+PKT0036,JNE,Express,1304.7,32.8,48,Tepat Waktu
+PKT0037,Pos Indonesia,Reguler,945.3,129.1,96,Terlambat
+PKT0038,JNE,Reguler,920.6,71.4,96,Tepat Waktu
+PKT0039,JNE,Same Day,1133.1,9.3,12,Tepat Waktu
+PKT0040,J&T Express,Same Day,1264.5,7.2,12,Tepat Waktu
+PKT0041,SiCepat,Same Day,1304.2,,12,Tepat Waktu
+PKT0042,SiCepat,Express,59.5,21.7,48,Tepat Waktu
+PKT0043,J&T Express,Reguler,836.5,105.1,96,Terlambat
+PKT0044,Pos Indonesia,Reguler,328.3,59.1,96,Tepat Waktu
+PKT0045,J&T Express,Express,1291.2,78.6,48,Terlambat
+PKT0046,J&T Express,Express,974.4,37.7,48,Tepat Waktu
+PKT0047,J&T Express,Express,633.2,31.2,48,Tepat Waktu
+PKT0048,JNE,Express,286.2,40.8,48,Tepat Waktu
+PKT0049,SiCepat,Reguler,511.8,65.4,96,Tepat Waktu
+PKT0050,JNE,Express,1057.1,38.7,48,Tepat Waktu
+PKT0051,SiCepat,Reguler,310.5,51.7,96,Tepat Waktu
+PKT0052,JNE,Reguler,144.9,69.4,96,Tepat Waktu
+PKT0053,Pos Indonesia,Reguler,1332.6,181.7,96,Gagal
+PKT0054,J&T Express,Reguler,1147.5,79.4,96,Tepat Waktu
+PKT0055,Pos Indonesia,Same Day,303.7,7.7,12,Tepat Waktu
+PKT0056,J&T Express,Reguler,442.0,66.9,96,Tepat Waktu
+PKT0057,JNE,Reguler,1458.2,83.0,96,Tepat Waktu
+PKT0058,AnterAja,Express,1063.7,48.4,48,Terlambat
+PKT0059,SiCepat,Express,917.7,39.4,48,Tepat Waktu
+PKT0060,,Reguler,464.9,92.6,96,Tepat Waktu
+PKT0061,J&T Express,Reguler,452.2,89.1,96,Tepat Waktu
+PKT0062,SiCepat,Reguler,64.1,,96,Tepat Waktu
+PKT0063,Pos Indonesia,Express,1094.1,53.6,48,Terlambat
+PKT0064,SiCepat,Reguler,69.5,51.8,96,Tepat Waktu
+PKT0065,J&T Express,Reguler,12.3,39.7,96,Tepat Waktu
+PKT0066,SiCepat,Reguler,1095.6,99.6,96,Terlambat
+PKT0067,SiCepat,Express,1423.6,48.7,48,Terlambat
+PKT0068,Pos Indonesia,Reguler,1136.0,90.5,96,Tepat Waktu
+PKT0069,J&T Express,Express,710.1,30.5,48,Tepat Waktu
+PKT0070,J&T Express,Reguler,731.6,112.8,96,Terlambat
+PKT0071,AnterAja,Express,657.0,37.9,48,Tepat Waktu
+PKT0072,SiCepat,Reguler,490.3,92.2,96,Tepat Waktu
+PKT0073,AnterAja,Reguler,785.0,74.6,96,Tepat Waktu
+PKT0074,J&T Express,Reguler,649.6,80.5,96,Tepat Waktu
+PKT0075,JNE,Express,899.3,74.6,48,Terlambat
+PKT0076,AnterAja,Same Day,1347.7,9.5,12,Tepat Waktu
+PKT0077,JNE,Reguler,1492.5,67.0,96,Tepat Waktu
+PKT0078,JNE,Reguler,122.7,66.9,96,Tepat Waktu
+PKT0079,SiCepat,Same Day,580.1,5.9,12,Tepat Waktu
+PKT0080,AnterAja,Express,275.2,30.1,48,Tepat Waktu
+PKT0081,Pos Indonesia,Reguler,531.4,71.4,96,Tepat Waktu
+PKT0082,J&T Express,Reguler,434.8,69.6,96,Tepat Waktu
+PKT0083,JNE,Express,265.9,21.6,48,Tepat Waktu
+PKT0084,Pos Indonesia,Express,1147.3,55.4,48,Terlambat
+PKT0085,JNE,Express,747.0,42.2,48,Tepat Waktu
+PKT0086,JNE,Same Day,1379.3,8.9,12,Tepat Waktu
+PKT0087,J&T Express,Reguler,53.7,40.1,96,Tepat Waktu
+PKT0088,SiCepat,Reguler,105.1,41.6,96,Tepat Waktu
+PKT0089,Pos Indonesia,Reguler,607.9,60.7,96,Tepat Waktu
+PKT0090,AnterAja,Reguler,125.0,48.1,96,Tepat Waktu
+PKT0091,AnterAja,Reguler,397.8,68.4,96,Gagal
+PKT0092,JNE,Reguler,1479.1,96.9,96,Terlambat
+PKT0093,J&T Express,Reguler,317.4,55.8,96,Tepat Waktu
+PKT0094,J&T Express,Express,301.2,29.4,48,Tepat Waktu
+PKT0095,JNE,Reguler,862.6,68.3,96,Tepat Waktu
+PKT0096,J&T Express,Reguler,749.5,94.3,96,Tepat Waktu
+PKT0097,J&T Express,Express,872.8,60.8,48,Terlambat
+PKT0098,JNE,Express,568.2,30.2,48,Tepat Waktu
+PKT0099,SiCepat,Express,1241.0,51.9,48,Terlambat
+PKT0100,AnterAja,Express,212.2,27.1,48,Tepat Waktu
+PKT0101,JNE,Express,645.4,38.9,48,Tepat Waktu
+PKT0102,J&T Express,Reguler,1036.2,136.6,96,Terlambat
+PKT0103,AnterAja,Reguler,1303.0,124.3,96,Terlambat
+PKT0104,AnterAja,Express,557.5,23.8,48,Tepat Waktu
+PKT0105,AnterAja,Reguler,853.8,98.7,96,Terlambat
+PKT0106,J&T Express,Reguler,108.4,68.4,96,Tepat Waktu
+PKT0107,AnterAja,Reguler,259.6,56.6,96,Tepat Waktu
+PKT0108,JNE,Reguler,108.4,61.4,96,Gagal
+PKT0109,J&T Express,Reguler,1093.2,79.9,96,Tepat Waktu
+PKT0110,JNE,Reguler,435.6,42.8,96,Tepat Waktu
+PKT0111,J&T Express,Express,1087.0,49.0,48,Terlambat
+PKT0112,J&T Express,Same Day,104.3,3.6,12,Tepat Waktu
+PKT0113,JNE,Reguler,1294.5,93.4,96,Tepat Waktu
+PKT0114,AnterAja,Same Day,1254.1,16.4,12,Terlambat
+PKT0115,J&T Express,Reguler,137.9,32.0,96,Tepat Waktu
+PKT0116,J&T Express,Same Day,40.5,3.8,12,Tepat Waktu
+PKT0117,JNE,Same Day,89.2,4.0,12,Tepat Waktu
+PKT0118,J&T Express,Reguler,1281.2,101.9,96,Terlambat
+PKT0119,J&T Express,Express,355.9,28.1,48,Tepat Waktu
+PKT0120,J&T Express,Same Day,824.7,13.0,12,Terlambat
+PKT0121,JNE,Same Day,642.2,10.0,12,Tepat Waktu
+PKT0122,AnterAja,Same Day,1194.3,13.1,12,Terlambat
+PKT0123,Pos Indonesia,Express,735.9,48.6,48,Terlambat
+PKT0124,J&T Express,Reguler,753.5,87.8,96,Tepat Waktu
+PKT0125,SiCepat,Express,1483.7,41.1,48,Tepat Waktu
+PKT0126,Pos Indonesia,Express,229.4,41.1,48,Gagal
+PKT0127,Pos Indonesia,Express,1246.9,45.9,48,Tepat Waktu
+PKT0128,SiCepat,Reguler,82.4,54.7,96,Tepat Waktu
+PKT0129,Pos Indonesia,Express,719.1,62.4,48,Terlambat
+PKT0130,Pos Indonesia,Reguler,1330.1,132.6,96,Terlambat
+PKT0131,AnterAja,Express,999.5,45.5,48,Tepat Waktu
+PKT0132,J&T Express,Reguler,1029.4,101.7,96,Terlambat
+PKT0133,JNE,Express,398.7,14.8,48,Gagal
+PKT0134,JNE,Express,630.8,38.0,48,Tepat Waktu
+PKT0135,,Reguler,553.0,68.5,96,Tepat Waktu
+PKT0136,J&T Express,Express,784.6,40.0,48,Gagal
+PKT0137,J&T Express,Reguler,696.0,91.8,96,Tepat Waktu
+PKT0138,SiCepat,Same Day,493.7,6.7,12,Tepat Waktu
+PKT0139,SiCepat,Express,461.7,22.6,48,Tepat Waktu
+PKT0140,AnterAja,Reguler,380.0,63.3,96,Tepat Waktu
+PKT0141,JNE,Reguler,550.7,68.1,96,Tepat Waktu
+PKT0142,JNE,Reguler,229.2,54.6,96,Tepat Waktu
+PKT0143,AnterAja,Reguler,1308.8,114.2,96,Terlambat
+PKT0144,AnterAja,Same Day,905.2,,12,Terlambat
+PKT0145,Pos Indonesia,Express,205.0,24.8,48,Tepat Waktu
+PKT0146,Pos Indonesia,Reguler,1042.3,115.2,96,Terlambat
+PKT0147,Pos Indonesia,Same Day,1272.3,18.8,12,Terlambat
+PKT0148,J&T Express,Reguler,360.1,40.0,96,Tepat Waktu
+PKT0149,J&T Express,Same Day,230.1,6.5,12,Gagal
+PKT0150,J&T Express,Reguler,17.9,39.9,96,Tepat Waktu
+PKT0151,SiCepat,Express,75.6,20.1,48,Tepat Waktu
+PKT0152,Pos Indonesia,Same Day,1144.6,10.3,12,Tepat Waktu
+PKT0153,J&T Express,Reguler,1480.8,107.9,96,Terlambat
+PKT0154,SiCepat,Express,72.1,34.9,48,Tepat Waktu
+PKT0155,J&T Express,Same Day,1123.4,7.8,12,Tepat Waktu
+PKT0156,JNE,Reguler,112.4,35.9,96,Tepat Waktu
+PKT0157,JNE,Reguler,890.2,59.0,96,Tepat Waktu
+PKT0158,JNE,Express,1135.3,71.0,48,Terlambat
+PKT0159,Pos Indonesia,Reguler,542.0,74.2,96,Tepat Waktu
+PKT0160,J&T Express,Reguler,21.3,46.0,96,Tepat Waktu
+PKT0161,AnterAja,Reguler,894.8,81.4,96,Tepat Waktu
+PKT0162,SiCepat,Express,1486.9,40.3,48,Tepat Waktu
+PKT0163,JNE,Reguler,390.1,56.6,96,Tepat Waktu
+PKT0164,JNE,Reguler,288.3,102.9,96,Gagal
+PKT0165,AnterAja,Express,190.3,40.1,48,Tepat Waktu
+PKT0166,J&T Express,Express,835.1,33.6,48,Tepat Waktu
+PKT0167,Pos Indonesia,Express,896.7,60.2,48,Terlambat
+PKT0168,JNE,Reguler,1189.4,76.8,96,Tepat Waktu
+PKT0169,SiCepat,Same Day,1130.8,6.2,12,Tepat Waktu
+PKT0170,AnterAja,Express,1339.3,71.7,48,Terlambat
+PKT0171,JNE,Reguler,1209.6,127.6,96,Terlambat
+PKT0172,J&T Express,Same Day,374.7,9.0,12,Tepat Waktu
+PKT0173,Pos Indonesia,Reguler,836.0,88.2,96,Tepat Waktu
+PKT0174,J&T Express,Reguler,449.6,63.1,96,Tepat Waktu
+PKT0175,J&T Express,Reguler,498.0,82.0,96,Gagal
+PKT0176,J&T Express,Express,1398.3,60.0,48,Terlambat
+PKT0177,J&T Express,Reguler,1024.4,83.2,96,Tepat Waktu
+PKT0178,AnterAja,Reguler,1462.0,78.1,96,Tepat Waktu
+PKT0179,AnterAja,Reguler,628.3,79.6,96,Tepat Waktu
+PKT0180,J&T Express,Reguler,808.5,107.4,96,Terlambat
+PKT0181,AnterAja,Reguler,733.2,61.1,96,Tepat Waktu
+PKT0182,JNE,Express,165.4,29.5,48,Tepat Waktu
+PKT0183,JNE,Reguler,358.9,63.8,96,Tepat Waktu
+PKT0184,SiCepat,Reguler,793.8,88.8,96,Tepat Waktu
+PKT0185,Pos Indonesia,Express,105.7,37.1,48,Tepat Waktu
+PKT0186,JNE,Reguler,1397.5,87.1,96,Tepat Waktu
+PKT0187,JNE,Express,190.1,17.2,48,Tepat Waktu
+PKT0188,SiCepat,Reguler,301.0,46.7,96,Tepat Waktu
+PKT0189,AnterAja,Reguler,1149.2,127.6,96,Terlambat
+PKT0190,JNE,Reguler,149.9,43.4,96,Tepat Waktu
+PKT0191,J&T Express,Reguler,1350.9,89.7,96,Tepat Waktu
+PKT0192,AnterAja,Reguler,1089.9,63.0,96,Tepat Waktu
+PKT0193,J&T Express,Express,107.6,38.9,48,Tepat Waktu
+PKT0194,JNE,Reguler,1039.3,108.3,96,Terlambat
+PKT0195,JNE,Express,949.3,51.0,48,Terlambat
+PKT0196,J&T Express,Express,1137.2,61.7,48,Terlambat
+PKT0197,J&T Express,Reguler,1243.2,117.5,96,Terlambat
+PKT0198,Pos Indonesia,Express,1078.9,52.8,48,Terlambat
+PKT0199,SiCepat,Reguler,881.3,74.1,96,Tepat Waktu
+PKT0200,SiCepat,Reguler,487.1,54.8,96,Tepat Waktu
+PKT0201,Pos Indonesia,Reguler,1047.4,213.6,96,Terlambat
+PKT0202,J&T Express,Express,1435.7,63.5,48,Terlambat
+PKT0203,J&T Express,Same Day,883.3,8.5,12,Tepat Waktu
+PKT0204,Pos Indonesia,Reguler,998.2,121.2,96,Terlambat
+PKT0205,JNE,Express,658.5,27.8,48,Tepat Waktu
+PKT0206,AnterAja,Express,1135.4,73.9,48,Terlambat
+PKT0207,AnterAja,Reguler,1496.5,100.6,96,Terlambat
+PKT0208,JNE,Express,244.8,30.5,48,Tepat Waktu
+PKT0209,J&T Express,Express,307.6,38.7,48,Tepat Waktu
+PKT0210,JNE,Same Day,811.5,9.6,12,Tepat Waktu
+PKT0211,JNE,Same Day,724.7,8.5,12,Tepat Waktu
+PKT0212,J&T Express,Reguler,859.5,84.6,96,Gagal
+PKT0213,J&T Express,Reguler,78.4,48.2,96,Tepat Waktu
+PKT0214,AnterAja,Express,609.4,33.1,48,Tepat Waktu
+PKT0215,Pos Indonesia,Reguler,876.6,90.6,96,Tepat Waktu
+PKT0216,AnterAja,Reguler,879.9,129.3,96,Terlambat
+PKT0217,J&T Express,Same Day,987.7,9.7,12,Gagal
+PKT0218,J&T Express,Reguler,1081.7,77.6,96,Tepat Waktu
+PKT0219,J&T Express,Reguler,964.1,78.3,96,Tepat Waktu
+PKT0220,JNE,Express,1186.4,62.2,48,Terlambat
+PKT0221,Pos Indonesia,Reguler,939.0,124.0,96,Terlambat
+PKT0222,J&T Express,Reguler,808.6,94.4,96,Tepat Waktu
+PKT0223,JNE,Same Day,911.3,8.6,12,Tepat Waktu
+PKT0224,AnterAja,Reguler,156.3,63.4,96,Tepat Waktu
+PKT0225,J&T Express,Reguler,413.4,54.6,96,Tepat Waktu
+PKT0226,JNE,Reguler,793.5,72.6,96,Tepat Waktu
+PKT0227,JNE,Same Day,1310.1,14.1,12,Terlambat
+PKT0228,SiCepat,Reguler,1020.2,103.2,96,Terlambat
+PKT0229,AnterAja,Express,140.2,21.2,48,Tepat Waktu
+PKT0230,JNE,Reguler,890.5,65.9,96,Tepat Waktu
+PKT0231,Pos Indonesia,Reguler,336.5,74.2,96,Tepat Waktu
+PKT0232,Pos Indonesia,Same Day,1102.4,19.4,12,Terlambat
+PKT0233,AnterAja,Express,1242.0,33.0,48,Tepat Waktu
+PKT0234,JNE,Same Day,892.2,9.7,12,Tepat Waktu
+PKT0235,JNE,Reguler,889.1,57.9,96,Tepat Waktu
+PKT0236,Pos Indonesia,Express,511.2,34.8,48,Tepat Waktu
+PKT0237,J&T Express,Same Day,672.1,7.7,12,Tepat Waktu
+PKT0238,SiCepat,Reguler,1296.8,84.9,96,Tepat Waktu
+PKT0239,AnterAja,Reguler,1086.4,86.8,96,Gagal
+PKT0240,JNE,Same Day,782.0,8.6,12,Tepat Waktu
+PKT0241,AnterAja,Reguler,555.5,64.7,96,Tepat Waktu
+PKT0242,Pos Indonesia,Express,80.3,20.2,48,Tepat Waktu
+PKT0243,AnterAja,Same Day,218.8,7.8,12,Tepat Waktu
+PKT0244,J&T Express,Reguler,293.6,70.8,96,Tepat Waktu
+PKT0245,Pos Indonesia,Reguler,563.2,104.2,96,Terlambat
+PKT0246,SiCepat,Reguler,1416.5,67.5,96,Tepat Waktu
+PKT0247,AnterAja,Reguler,760.2,90.1,96,Tepat Waktu
+PKT0248,AnterAja,Reguler,356.1,76.3,96,Tepat Waktu
+PKT0249,AnterAja,Express,163.1,21.4,48,Tepat Waktu
+PKT0250,J&T Express,Reguler,510.8,68.7,96,Tepat Waktu
+PKT0251,JNE,Express,1224.5,46.7,48,Tepat Waktu
+PKT0252,JNE,Reguler,578.1,108.1,96,Terlambat
+PKT0253,SiCepat,Reguler,1159.9,143.4,96,Terlambat
+PKT0254,SiCepat,Reguler,1205.0,59.7,96,Tepat Waktu
+PKT0255,SiCepat,Express,170.7,44.8,48,Tepat Waktu
+PKT0256,J&T Express,Reguler,914.9,69.1,96,Tepat Waktu
+PKT0257,AnterAja,Reguler,1438.8,148.1,96,Gagal
+PKT0258,Pos Indonesia,Same Day,606.2,12.3,12,Terlambat
+PKT0259,JNE,Express,81.2,18.2,48,Tepat Waktu
+PKT0260,AnterAja,Reguler,1385.3,128.2,96,Terlambat
+PKT0261,SiCepat,Same Day,1326.1,10.3,12,Tepat Waktu
+PKT0262,SiCepat,Reguler,785.6,84.2,96,Tepat Waktu
+PKT0263,JNE,Reguler,830.6,83.8,96,Gagal
+PKT0264,AnterAja,Reguler,321.6,84.7,96,Tepat Waktu
+PKT0265,Pos Indonesia,Reguler,1230.1,122.7,96,Gagal
+PKT0266,AnterAja,Reguler,750.4,79.8,96,Tepat Waktu
+PKT0267,Pos Indonesia,Express,55.6,37.5,48,Gagal
+PKT0268,Pos Indonesia,Reguler,1026.1,126.5,96,Terlambat
+PKT0269,J&T Express,Express,1426.0,66.1,48,Terlambat
+PKT0270,SiCepat,Same Day,1244.6,8.7,12,Tepat Waktu
+PKT0271,J&T Express,Express,419.4,24.8,48,Tepat Waktu
+PKT0272,Pos Indonesia,Express,84.7,25.4,48,Tepat Waktu
+PKT0273,JNE,Express,1410.8,44.6,48,Tepat Waktu
+PKT0274,J&T Express,Same Day,1405.9,14.8,12,Terlambat
+PKT0275,Pos Indonesia,Reguler,801.0,124.1,96,Terlambat
+PKT0276,J&T Express,Reguler,965.3,85.8,96,Tepat Waktu
+PKT0277,AnterAja,Express,696.6,57.6,48,Terlambat
+PKT0278,J&T Express,Express,632.5,52.1,48,Gagal
+PKT0279,Pos Indonesia,Reguler,183.6,67.9,96,Tepat Waktu
+PKT0280,Pos Indonesia,Express,149.6,25.3,48,Tepat Waktu
+PKT0281,J&T Express,Reguler,352.9,91.0,96,Tepat Waktu
+PKT0282,AnterAja,Same Day,1255.8,11.7,12,Tepat Waktu
+PKT0283,J&T Express,Reguler,223.0,57.3,96,Tepat Waktu
+PKT0284,SiCepat,Reguler,343.9,50.7,96,Tepat Waktu
+PKT0285,SiCepat,Reguler,825.2,60.0,96,Tepat Waktu
+PKT0286,AnterAja,Reguler,326.6,43.7,96,Tepat Waktu
+PKT0287,JNE,Reguler,249.0,63.2,96,Tepat Waktu
+PKT0288,JNE,Reguler,847.2,65.6,96,Tepat Waktu
+PKT0289,AnterAja,Reguler,555.3,158.8,96,Terlambat
+PKT0290,SiCepat,Reguler,941.1,60.7,96,Gagal
+PKT0291,J&T Express,Reguler,1368.7,78.5,96,Tepat Waktu
+PKT0292,JNE,Reguler,230.7,60.4,96,Tepat Waktu
+PKT0293,J&T Express,Reguler,1370.6,157.6,96,Terlambat
+PKT0294,Pos Indonesia,Reguler,1354.2,129.2,96,Terlambat
+PKT0295,JNE,Reguler,1244.5,111.9,96,Terlambat
+PKT0296,J&T Express,Reguler,948.8,55.8,96,Tepat Waktu
+PKT0297,Pos Indonesia,Reguler,932.1,88.1,96,Tepat Waktu
+PKT0298,JNE,Express,960.6,32.4,48,Tepat Waktu
+PKT0299,AnterAja,Same Day,1037.3,6.7,12,Tepat Waktu
+PKT0300,J&T Express,Same Day,29.6,5.3,12,Tepat Waktu
+PKT0301,Pos Indonesia,Express,1437.3,37.6,48,Tepat Waktu
+PKT0302,AnterAja,Express,880.5,32.1,48,Tepat Waktu
+PKT0303,Pos Indonesia,Reguler,1173.3,102.6,96,Terlambat
+PKT0304,JNE,Express,569.0,27.5,48,Tepat Waktu
+PKT0305,SiCepat,Express,23.5,23.2,48,Tepat Waktu
+PKT0306,AnterAja,Express,767.1,45.3,48,Tepat Waktu
+PKT0307,JNE,Same Day,763.2,10.6,12,Tepat Waktu
+PKT0308,JNE,Reguler,658.3,86.5,96,Gagal
+PKT0309,JNE,Express,512.9,43.5,48,Tepat Waktu
+PKT0310,Pos Indonesia,Express,378.5,37.2,48,Gagal
+PKT0311,AnterAja,Reguler,793.7,92.0,96,Tepat Waktu
+PKT0312,SiCepat,Same Day,566.0,8.1,12,Tepat Waktu
+PKT0313,AnterAja,Reguler,1455.0,120.9,96,Terlambat
+PKT0314,SiCepat,Same Day,263.5,5.2,12,Tepat Waktu
+PKT0315,J&T Express,Express,482.9,30.9,48,Tepat Waktu
+PKT0316,J&T Express,Reguler,444.5,53.4,96,Tepat Waktu
+PKT0317,SiCepat,Express,817.2,41.4,48,Tepat Waktu
+PKT0318,JNE,Reguler,751.4,73.9,96,Tepat Waktu
+PKT0319,Pos Indonesia,Express,967.4,45.0,48,Tepat Waktu
+PKT0320,AnterAja,Express,1425.3,48.8,48,Terlambat
+PKT0321,J&T Express,Express,431.4,24.0,48,Tepat Waktu
+PKT0322,SiCepat,Same Day,1040.7,11.9,12,Tepat Waktu
+PKT0323,JNE,Reguler,42.4,45.9,96,Tepat Waktu
+PKT0324,Pos Indonesia,Reguler,397.3,60.8,96,Tepat Waktu
+PKT0325,Pos Indonesia,Reguler,698.3,112.3,96,Terlambat
+PKT0326,Pos Indonesia,Reguler,51.3,49.3,96,Tepat Waktu
+PKT0327,J&T Express,Reguler,928.4,61.5,96,Tepat Waktu
+PKT0328,JNE,Reguler,1019.1,112.6,96,Terlambat
+PKT0329,JNE,Reguler,1121.4,80.1,96,Gagal
+PKT0330,JNE,Reguler,777.3,69.3,96,Tepat Waktu
+PKT0331,JNE,Same Day,907.9,9.3,12,Tepat Waktu
+PKT0332,JNE,Reguler,597.1,91.8,96,Tepat Waktu
+PKT0333,Pos Indonesia,Same Day,66.7,6.4,12,Tepat Waktu
+PKT0334,JNE,Reguler,154.4,37.0,96,Gagal
+PKT0335,JNE,Reguler,984.2,98.2,96,Terlambat
+PKT0336,AnterAja,Express,1493.4,52.5,48,Terlambat
+PKT0337,SiCepat,Reguler,28.6,67.7,96,Tepat Waktu
+PKT0338,AnterAja,Reguler,838.6,87.3,96,Tepat Waktu
+PKT0339,SiCepat,Express,1127.8,25.0,48,Tepat Waktu
+PKT0340,Pos Indonesia,Reguler,1241.0,132.3,96,Terlambat
+PKT0341,SiCepat,Reguler,820.1,121.5,96,Terlambat
+PKT0342,SiCepat,Express,931.8,58.8,48,Terlambat
+PKT0343,AnterAja,Reguler,1046.6,153.7,96,Terlambat
+PKT0344,J&T Express,Express,1289.2,40.2,48,Tepat Waktu
+PKT0345,J&T Express,Reguler,187.8,67.7,96,Tepat Waktu
+PKT0346,J&T Express,Same Day,1389.6,10.1,12,Tepat Waktu
+PKT0347,JNE,Express,43.9,23.8,48,Tepat Waktu
+PKT0348,,Same Day,1255.1,8.7,12,Tepat Waktu
+PKT0349,,Express,119.7,21.6,48,Tepat Waktu
+PKT0350,JNE,Reguler,296.0,47.3,96,Tepat Waktu
+PKT0351,JNE,Express,10.8,27.3,48,Gagal
+PKT0352,AnterAja,Reguler,670.7,97.0,96,Terlambat
+PKT0353,J&T Express,Express,504.9,36.6,48,Tepat Waktu
+PKT0354,SiCepat,Express,253.2,18.3,48,Tepat Waktu
+PKT0355,Pos Indonesia,Reguler,679.4,83.9,96,Tepat Waktu
+PKT0356,JNE,Same Day,606.5,6.4,12,Tepat Waktu
+PKT0357,AnterAja,Reguler,1152.7,127.1,96,Terlambat
+PKT0358,J&T Express,Express,1340.2,71.3,48,Terlambat
+PKT0359,JNE,Express,980.6,55.7,48,Terlambat
+PKT0360,SiCepat,Reguler,191.0,40.5,96,Tepat Waktu
+PKT0361,Pos Indonesia,Express,446.6,19.7,48,Tepat Waktu
+PKT0362,J&T Express,Express,1370.4,34.6,48,Tepat Waktu
+PKT0363,SiCepat,Reguler,137.7,66.6,96,Tepat Waktu
+PKT0364,J&T Express,Express,613.2,33.1,48,Tepat Waktu
+PKT0365,SiCepat,Reguler,1414.0,82.1,96,Tepat Waktu
+PKT0366,SiCepat,Express,1426.2,75.1,48,Terlambat
+PKT0367,SiCepat,Reguler,619.7,91.2,96,Tepat Waktu
+PKT0368,SiCepat,Same Day,1002.8,9.2,12,Tepat Waktu
+PKT0369,JNE,Same Day,687.8,7.5,12,Tepat Waktu
+PKT0370,SiCepat,Reguler,1131.4,84.6,96,Tepat Waktu
+PKT0371,SiCepat,Reguler,52.2,45.7,96,Tepat Waktu
+PKT0372,SiCepat,Express,220.5,37.4,48,Tepat Waktu
+PKT0373,JNE,Express,923.2,46.2,48,Tepat Waktu
+PKT0374,J&T Express,Reguler,352.7,73.6,96,Tepat Waktu
+PKT0375,J&T Express,Reguler,1000.7,121.6,96,Terlambat
+PKT0376,JNE,Reguler,530.1,49.3,96,Tepat Waktu
+PKT0377,JNE,Same Day,1330.5,13.5,12,Terlambat
+PKT0378,J&T Express,Reguler,1229.8,94.0,96,Tepat Waktu
+PKT0379,AnterAja,Same Day,741.8,4.9,12,Tepat Waktu
+PKT0380,JNE,Reguler,1160.5,54.8,96,Tepat Waktu
+PKT0381,AnterAja,Same Day,410.4,5.8,12,Tepat Waktu
+PKT0382,SiCepat,Reguler,743.9,81.7,96,Tepat Waktu
+PKT0383,AnterAja,Reguler,300.2,63.6,96,Tepat Waktu
+PKT0384,J&T Express,Same Day,1292.0,12.1,12,Terlambat
+PKT0385,J&T Express,Same Day,1235.5,18.3,12,Terlambat
+PKT0386,SiCepat,Reguler,1353.7,70.3,96,Tepat Waktu
+PKT0387,Pos Indonesia,Reguler,1316.8,124.3,96,Terlambat
+PKT0388,J&T Express,Reguler,1439.6,119.4,96,Terlambat
+PKT0389,SiCepat,Reguler,346.4,46.0,96,Tepat Waktu
+PKT0390,SiCepat,Reguler,1398.1,99.1,96,Terlambat
+PKT0391,AnterAja,Same Day,859.0,6.6,12,Tepat Waktu
+PKT0392,JNE,Reguler,636.6,100.6,96,Terlambat
+PKT0393,SiCepat,Express,842.8,31.9,48,Tepat Waktu
+PKT0394,J&T Express,Reguler,517.2,114.4,96,Terlambat
+PKT0395,Pos Indonesia,Reguler,436.4,76.9,96,Tepat Waktu
+PKT0396,J&T Express,Express,365.8,40.1,48,Gagal
+PKT0397,J&T Express,Reguler,128.2,50.5,96,Tepat Waktu
+PKT0398,Pos Indonesia,Express,747.4,46.8,48,Tepat Waktu
+PKT0399,J&T Express,Reguler,1332.2,91.4,96,Tepat Waktu
+PKT0400,JNE,Same Day,947.1,9.6,12,Gagal
